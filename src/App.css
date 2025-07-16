@@ -1,0 +1,69 @@
+.grey {
+  color: #a29f9f;
+}
+
+.landing-image {
+  border-radius: 3%;
+  width: 105%;
+  height: 650px;
+  margin-right: 15%;
+}
+
+.about-section {
+  background-color: #e1e0e0;
+  border-radius: 3%;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.about-image1,.about-image2{ 
+  border-radius: 3%;
+  width: 80%;
+  margin-left: 3rem;
+}
+
+.about-image {
+    width: 90%;
+    border-radius: 3%;
+}
+
+.number {
+  font-size: 10rem;
+  color: #a29f9f;
+  font-weight: 900;
+}
+
+.objectives-title {
+  color: #333333;
+}
+
+.objective, .our-projects {
+    margin-left: 9.2%;
+    padding-right: 7.2%;
+}
+
+.project-image {
+  border-radius: 3%;
+  width: 100%;
+  height: auto;
+}
+
+.projectName {
+    margin-left: 20%;
+    font-size: 3.2rem;
+}
+
+.contact {
+    width: 60%;
+}
+
+.form-control, #projectType {
+    background-color:#e1e0e0;
+    border-radius: 0;
+}
+
+@media (max-width: 768px) {
+  .number {
+    font-size: 3rem;
+  }
+}
